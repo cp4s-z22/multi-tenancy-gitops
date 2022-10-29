@@ -30,7 +30,7 @@ spec:
       - name: spec.basicDeploymentConfiguration.domain
         value: z22.cloudpaksecurity.com
       - name: spec.basicDeploymentConfiguration.adminUser
-        value: david@demonstratesecurity.com
+        value: demo@lenticularsecurity.com
       - name: spec.basicDeploymentConfiguration.storageClass
         value: ibmc-vpc-block-10iops-tier
       - name: spec.extendedDeploymentConfiguration.airgapInstall
